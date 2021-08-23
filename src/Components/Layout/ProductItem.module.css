@@ -1,0 +1,54 @@
+
+.btn {
+  height: 35px;
+  width: 156px;
+  left: 16px;
+  top: 2753px;
+  border-radius: 4px;
+  padding: 9px, 67px, 9px, 67px;
+  border: 1px solid #cccccc;
+  background: #ffffff;
+  color: #f5b64c;
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 17px;
+  letter-spacing: 0.15000000596046448px;
+  text-align: center;
+}
+.h{
+    height: 28px;
+width: 98px;
+left: 16px;
+top: 1987px;
+border-radius: nullpx;
+
+    
+
+}
+.h5{
+  height: 16px;
+width: 117px;
+left: 16px;
+top: 2470px;
+border-radius: nullpx;
+color: #000000;
+Font-family: Roboto;
+Font-style: Regular;
+Font-size: 14px;
+Line-height: 16px;
+Line-height: 100%;
+align-items: Left;
+Vertical-align: Top
+
+
+}
+.box{
+  flex: 2;
+  margin:16px;
+
+}
+.card{
+
+}

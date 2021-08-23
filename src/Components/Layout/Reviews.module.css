@@ -1,0 +1,82 @@
+.btn1 {
+  height: 48px;
+  width: 328px;
+  left: 16px;
+  top: 3290px;
+  border-radius: 4px;
+  padding: 9px, 67px, 9px, 67px;
+  background: #f5e7d0;
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 17px;
+  letter-spacing: 0.15000000596046448px;
+  text-align: center;
+  color: #000000cc;
+}
+.btn2 {
+  height: 48px;
+  width: 328px;
+  left: 16px;
+  top: 3362px;
+  border-radius: 4px;
+  padding: 9px, 67px, 9px, 67px;
+  background: #f5b64c;
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 17px;
+  letter-spacing: 0.15000000596046448px;
+  text-align: center;
+  color: #000000;
+}
+.h {
+  height: 28px;
+  width: 141px;
+  left: 16px;
+  top: 2832px;
+  border-radius: nullpx;
+}
+.wrapper {
+  width: 100%;
+  height: 99px;
+}
+.tag {
+  height: 50px;
+  width: 50px;
+  left: 0.5px;
+  top: 0px;
+  border-radius: 25px;
+  margin-left: 16.5px;
+}
+.reviewname {
+  height: 16px;
+  width: 95px;
+
+  border-radius: nullpx;
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+ 
+  letter-spacing: 0em;
+ 
+  color: #000000de;
+}
+.text {
+  height: 16px;
+  width: 98%;
+  left: 16px;
+  top: 70px;
+  border-radius: nullpx;
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin: 16px;
+}

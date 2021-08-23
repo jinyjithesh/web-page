@@ -1,0 +1,16 @@
+.icon {
+  height: 40px;
+  width: 40px;
+  left: 8px;
+  top: 32px;
+  border-radius: 0px;
+  margin: 8px;
+}
+.Toolbar {
+  height: 56px;
+  width: 360px;
+  left: 0px;
+  top: 24px;
+  border-radius: 0px;
+}
+

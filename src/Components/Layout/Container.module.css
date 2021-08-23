@@ -1,0 +1,84 @@
+.h1{
+    height: 28px;
+width: 186px;
+left: 16px;
+top: 535px;
+border-radius: nullpx;
+}
+.text{
+    height: 32px;
+width: 100%;
+left: 16px;
+top: 575px;
+border-radius: nullpx;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+color: #7B7B7B;
+margin: 16px;
+}
+.btn{
+    height: 48px;
+   width: 98%;
+   left: 16px;
+   top: 623px;
+   border-radius: 4px;
+   margin: 16px;
+   }
+.c{
+    height: 96px;
+width: 328px;
+left: 16px;
+top: 719px;
+border-radius: 4px;
+border: 1px solid #CCCCCC
+}
+
+
+.h{
+height: 16px;
+width: 328px;
+left: 16px;
+top: 687px;
+border-radius: nullpx;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+margin: 16px;
+color: #7B7B7B;
+
+}
+.box{
+    
+border: 1px solid #CCCCCC;
+
+
+height: 96px;
+width: 98%px;
+left: 16px;
+top: 719px;
+border-radius: 4px;
+margin: 16px;
+text-align: left;
+
+}
+.p{
+margin-top: 16px;
+margin-left: 12px;
+font-family: Roboto;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 14px;
+letter-spacing: 0em;
+text-align: left;
+
+}
