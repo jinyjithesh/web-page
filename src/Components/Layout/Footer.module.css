@@ -1,20 +1,19 @@
-.footer{
-    height: 48px;
-width: 360.00067138671875px;
-left: 0px;
-top: 4036px;
-border-radius: 0px;
-margin: 16px;
-padding: 12px, 24px, 12px, 24px;
-}
-.box{
- 
-height: 48px;
-width: 72px;
-left: 0.0001220703125px;
-top: 0px;
-border-radius: 0px;
-padding: 12px, 24px, 12px, 24px;
+.footer {
+  height: 48px;
+  width: 100%;
+  top: 4036px;
 
+}
+.box {
+  height: 48px;
+  width: 72px;
+margin: 12px;
+background-color: thistle;
+ 
+}
+.imag{
+    height: 20.57637596130371px;
+width: 24.000335693359375px;
+margin-left: 312px;
 
 }
